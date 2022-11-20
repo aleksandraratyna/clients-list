@@ -1,0 +1,37 @@
+[
+    {
+        "id": "c0b208a4-c85a-4b73-9b33-808c2aba7468",
+        "name": "Tester",
+        "mail": "tester@example.com",
+        "lastContactAt": "2022-09-08",
+        "notes": "Zadzwonić jak najszybciej"
+    },
+    {
+        "id": "e5c7155f-a064-465b-85d0-e86dff54910c",
+        "name": "Testowy",
+        "mail": "test@example.com",
+        "lastContactAt": "2022-08-26",
+        "notes": "Zadzwonić"
+    },
+    {
+        "id": "df1a2f35-71f8-4fb6-b205-efbe953bfef8",
+        "name": "Klient",
+        "mail": "klient@onet.pl",
+        "lastContactAt": "2022-08-26",
+        "notes": "Zadzwonić jeszcze raz"
+    },
+    {
+        "id": "0f7a9a1d-d624-4de8-83f5-f2e942285566",
+        "name": "Testerka",
+        "mail": "testerka@wp.pl",
+        "lastContactAt": "2022-08-26",
+        "notes": "Nie dzwonić do odwołania"
+    },
+    {
+        "id": "276b4604-1b3c-4efd-b1da-28e37c3493b3",
+        "name": "Testowa",
+        "mail": "testerka@hotmail.com",
+        "lastContactAt": "2022-09-28",
+        "notes": "Sama zadzwoni"
+    }
+]
